@@ -33,7 +33,7 @@ On Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
-To Run the project-
+###To Run the project-
 1. python -m pip install -r requirements.txt
 2. python app.py
 
