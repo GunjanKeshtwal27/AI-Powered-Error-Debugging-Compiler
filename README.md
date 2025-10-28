@@ -29,7 +29,7 @@ cd AI-Powered-Error-Debugging-Compiler
 
 ###  Create a Virtual Environment (Recommended)
 ###  This creates an isolated environment for your projects dependencies.
-On Windows:
+###  On Windows:
 python -m venv venv
 .\venv\Scripts\activate
 
